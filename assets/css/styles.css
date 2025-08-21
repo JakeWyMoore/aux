@@ -1,0 +1,16 @@
+/* Hero */
+.hero {
+    background: url("../img/photo-1604087472033-cae0bd418fec.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    max-height: 40rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero .text {
+    padding: 5rem 0;
+}
+
+/* Info */
